@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872719770308",
+    "project_id": "moonie-4bbd9",
+    "storage_bucket": "moonie-4bbd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872719770308:android:a0796f19e65d54c01b1f91",
+        "android_client_info": {
+          "package_name": "com.example.learncloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872719770308-kvtlqhe8fln39kkqqbakol4jk1i9517s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGsGLQoXWK_nZX7d-o1orWNCWnV6zz5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872719770308-kvtlqhe8fln39kkqqbakol4jk1i9517s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
